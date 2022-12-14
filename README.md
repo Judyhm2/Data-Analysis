@@ -13,6 +13,6 @@
 |[JavaScript, JSON and HTLM]()| List all new or modified files |
 |[SQL]()| List all new or modified files |
 |[ETL]() | Show file differences that haven't been staged |
-|[git diff]() | Show file differences that haven't been staged |
+|[Tableau]() | Show file differences that haven't been staged |
 |[Excel]()| List all new or modified files |
 |[git diff]() | Show file differences that haven't been staged |
